@@ -46,6 +46,7 @@ conda create -n E2VID
 conda activate E2VID
 conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
 conda install pandas
+conda install -c anaconda scipy
 conda install -c conda-forge opencv
 ```
 
